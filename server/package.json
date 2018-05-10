@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "Internal server project for API Almundo",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alejandro Bermúdez Holguín",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mocha": "^5.1.1",
+    "supertest": "^3.0.0"
+  }
+}

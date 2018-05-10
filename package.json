@@ -4,7 +4,11 @@
   "description": "Project including client and server side for Almundo frontend test",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "8.11.1"
   },
   "repository": {
     "type": "git",
@@ -23,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/alejobh/almundo/issues"
   },
-  "homepage": "https://github.com/alejobh/almundo#readme"
+  "homepage": "https://github.com/alejobh/almundo#readme",
+  "dependencies": {
+    "concurrently": "^3.5.1"
+  }
 }
