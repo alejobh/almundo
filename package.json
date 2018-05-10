@@ -1,0 +1,27 @@
+{
+  "name": "almundo-pure",
+  "version": "1.0.0",
+  "description": "Project including client and server side for Almundo frontend test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejobh/almundo.git"
+  },
+  "keywords": [
+    "almundo",
+    "api",
+    "prueba",
+    "react",
+    "nodejs",
+    "express"
+  ],
+  "author": "Alejandro Bermúdez Holguín",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejobh/almundo/issues"
+  },
+  "homepage": "https://github.com/alejobh/almundo#readme"
+}
